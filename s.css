@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(43, 226, 113);
+}
+body {
+    background-color: #fed7ea;
+}
+a {
+    color: #1fa736; 
+    font-size: 20px;
+    
+
+    text-decoration: none; 
+}
